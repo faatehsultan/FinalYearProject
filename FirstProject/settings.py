@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-80i3h1p8uk8u01bh(8vvv(l0zx2#&h^a@1+whx(n5^0ukf&xq_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['face-recon-test-django.herokuapp.com']
+ALLOWED_HOSTS = ['face-recon-test-django.herokuapp.com']
 
 # Application definition
 
